@@ -1,2 +1,2 @@
 # HLFOCG
-Higher Life Foundations Online Career Guidence
+Higher Life Foundations Online Career Guidance
