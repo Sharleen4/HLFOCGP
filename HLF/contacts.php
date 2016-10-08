@@ -5,6 +5,7 @@ session_start();
 		$server_name = "localhost";
 		$db_name = "hlf";
 		$user = "hlf";
+		//Test link motion.
 		$pass = "Persla2006.2307";
 		$conn = new PDO("mysql:host=$server_name;dbname=$db_name", $user, $pass);
 		$query = "SELECT * FROM users where emailHash != '$emailHash' order by `name` desc"; 
